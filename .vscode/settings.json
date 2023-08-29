@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 0.5,
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.port": 5501,
+
+}
